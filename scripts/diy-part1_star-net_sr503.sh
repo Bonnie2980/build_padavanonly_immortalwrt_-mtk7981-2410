@@ -20,7 +20,7 @@
 # 添加第三方软件包
 #git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 #git clone https://github.com/kenzok8/small-package package/small-package
-[ -d package/UA2F ] || git clone --depth 1 https://github.com/Zxilly/UA2F package/UA2F
+#[ -d package/UA2F ] || git clone --depth 1 https://github.com/Zxilly/UA2F package/UA2F
 
 # OpenClash (拉取最新版本)
 #rm -rf package/luci-app-openclash
