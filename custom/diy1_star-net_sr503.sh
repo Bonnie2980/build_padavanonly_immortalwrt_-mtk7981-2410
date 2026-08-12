@@ -23,8 +23,8 @@
 [ -d package/UA2F ] || git clone --depth 1 https://github.com/Zxilly/UA2F package/UA2F
 
 # OpenClash (拉取最新版本)
-rm -rf package/luci-app-openclash
-git clone --depth 1 https://github.com/vernesong/OpenClash package/luci-app-openclash
+#rm -rf package/luci-app-openclash
+#git clone --depth 1 https://github.com/vernesong/OpenClash package/luci-app-openclash
 
 # nikki feed (disabled)
 # grep -q 'nikki' feeds.conf.default || echo 'src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git' >> feeds.conf.default
