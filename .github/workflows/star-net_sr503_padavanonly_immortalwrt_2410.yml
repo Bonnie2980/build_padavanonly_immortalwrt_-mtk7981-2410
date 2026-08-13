@@ -15,7 +15,7 @@ on:
     inputs:
 
 env:
-  REPO_URL: https://github.com/Bonnie2980/immortalwrt-mt798x-24.10.git
+  REPO_URL: https://github.com/vb1980/padavanonly_immortalwrt-mt798x-2410
   REPO_BRANCH: 2410
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./configs/mt7981_star-net_sr503.config
